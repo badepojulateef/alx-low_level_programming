@@ -5,7 +5,7 @@
  * @str: string parameter
  * Return: void
  */
-void _puts()
+void _puts(str)
 {
 puts(str);
 }
